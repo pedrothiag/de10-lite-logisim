@@ -1,4 +1,4 @@
-![image](https://github.com/pedrothiag/de10-lite-logisim/assets/5923790/dabe070d-38c2-475f-8c06-3e610b458735)# Como utilizar a placa DE10-Lite no Logisim
+# Como utilizar a placa DE10-Lite no Logisim
 
 O Logisim permite implemetarmos nossos circuitos em placas FPGA sem a necessidade de descrever o hardware utilizando uma linguagem de descrição, como o SystemVerilog ou VHDL. Neste tutorial, irei ensinar como fazer o passo-a-passo para exportar um projeto no Logisim para placa FPGA DE10-Lite.
 
