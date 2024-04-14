@@ -19,3 +19,7 @@ O Logisim permite implemetarmos nossos circuitos em placas FPGA sem a necessidad
 ![image](https://github.com/pedrothiag/de10-lite-logisim/assets/5923790/6f209e05-7c93-4eac-bd17-f0406f4ee6e3)
 
 ![image](https://github.com/pedrothiag/de10-lite-logisim/assets/5923790/e0d5443f-7440-4f49-9685-413645c2583f)
+
+![image](https://github.com/pedrothiag/de10-lite-logisim/assets/5923790/5e697a3d-f609-4976-85d7-8ad09b8aea31)
+
+
