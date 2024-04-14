@@ -17,6 +17,7 @@ Após isso, clique em FPGA --> Sintetizar.
 ![image](https://github.com/pedrothiag/de10-lite-logisim/assets/5923790/c7addb7e-90af-4207-94ef-50094ba9cea5)
 
 Na tela que abrir, clique em Settings.
+
 ![image](https://github.com/pedrothiag/de10-lite-logisim/assets/5923790/d0c48aff-79a1-4e60-ac99-46318800ee7a)
 
 Na nova tela, clique em Adicionar um quadro.
